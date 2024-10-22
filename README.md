@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Keerthan 👋</h1>
 
-<img src="https://payload-cms.code-b.dev/media/1709674661110-1.gif" alt="Funny Pic"/>
+<img src="https://payload-cms.code-b.dev/media/1709674661110-1.gif" height="100" alt="Funny Pic"/>
 
 <h3 align="center">A Passionate Full Stack Developer with a love for solving problems through code</h3>
 
