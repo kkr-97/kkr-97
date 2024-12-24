@@ -19,12 +19,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [Reviva](https://reviva-t1co.onrender.com/) — An app to capture and reflect on emotional moments.
 - 🌱 I’m expanding my skills with **Go, TypeScript, Docker, Jenkins**.
 - 👨‍💻 Explore all of my projects at [My GitHub Portfolio](https://github.com/kkr-97/).
 - 💬 Ask me about **React, Node.js, Express, MongoDB, SQL, Redux**.
 - 📫 Reach me at **kollikeerthan07@gmail.com**.
-- My Portfolio Website [Portfolio](https://kkr-97.github.io/MyPorfolio/).
+- 🙎‍♂️ My Portfolio Website [Portfolio](https://kkr-97.github.io/MyPorfolio/).
 - 📄 Check out my [Resume](https://drive.google.com/drive/folders/1KlLw70WTfofBiYbmuNChom57fXv_tRuW).
 
 ---
