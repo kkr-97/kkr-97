@@ -8,7 +8,7 @@
 
 <p align="center">
 <!--   <a href="https://reviva-t1co.onrender.com/sign" target="_blank"> -->
-    <img src="https://img.shields.io/badge/Working%20on-TypeScripting%20my%20projects-blueviolet?style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/Working%20on-Go?style=for-the-badge" alt="">
 <!--   </a> -->
 <!--   <a href="https://github.com/kkr-9/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-blue?style=for-the-badge&logo=github" alt="GitHub Portfolio">
